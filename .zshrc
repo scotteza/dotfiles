@@ -94,3 +94,17 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+alias dcd=docker-compose down
+alias dcu=docker-compose up
+alias ga=git add .
+alias gcf=git clean -f
+alias gcm=git commit -m "$*"
+alias gcn=git clean -n
+alias gd=git diff
+alias gdc=git diff --cached
+alias gfp=git fetch --prune
+alias gl=git log
+alias gp=git push
+alias grhaha=git reset --hard
+alias gs=git status
