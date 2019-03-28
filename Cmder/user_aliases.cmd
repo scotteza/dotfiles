@@ -27,3 +27,4 @@ gcn=git clean -n
 gcf=git clean -f  
 gfp=git fetch --prune  
 gamend=git commit --amend  
+gpl=git pull
