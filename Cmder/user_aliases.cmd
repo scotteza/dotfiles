@@ -34,4 +34,5 @@ yt=yarn test
 ys=yarn start  
 ytw=yarn test --watchAll  
 gitdestroylastcommit=git reset --hard HEAD~1  
-gplrb=git pull --rebase --autostash
+gplrb=git pull --rebase --autostash  
+gitkillalllocalchangesincludingcommits=git reset --hard origin/master
